@@ -1475,7 +1475,7 @@
   content: "\f1c3";
 }
 
-.fa-file-powerpoint-o:before {
+.fa-file-powerpoint:before {
   content: "\f1c4";
 }
 .fa-file-photo-o:before,
@@ -2365,3 +2365,4 @@
     text-decoration: none; /* إزالة التأثيرات الافتراضية للروابط */
 }
 
+}
